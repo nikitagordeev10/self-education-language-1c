@@ -1,0 +1,1 @@
+// Задача о наибольшей общей подпоследовательности (Longest Common Subsequence, LCS)

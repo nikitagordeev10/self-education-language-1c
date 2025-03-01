@@ -1,0 +1,1 @@
+// Задача о гамильтоновом пути (Hamiltonian Path Problem)

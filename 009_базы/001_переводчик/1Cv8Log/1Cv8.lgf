@@ -1,0 +1,24 @@
+﻿1CV8LOG(ver 2.0)
+363c0633-7963-4410-b3b1-023b0756a70b
+
+{1,071523a4-516f-4fce-ba4b-0d11ab7a1893,"",1},
+{2,"nikitagordeev10pc",1},
+{3,"Designer",1},
+{4,"_$Session$_.Authentication",1},
+{13,1,1},
+{4,"_$Session$_.Start",2},
+{4,"_$InfoBase$_.RestoreStart",3},
+{4,"_$Session$_.Finish",4},
+{3,"1CV8C",2},
+{3,"BackgroundJob",3},
+{4,"_$Job$_.Start",5},
+{4,"_$Job$_.Finish",6},
+{4,"_$InfoBase$_.ConfigUpdate",7},
+{4,"_$InfoBase$_.DBConfigUpdateStart",8},
+{4,"_$InfoBase$_.DBConfigUpdate",9},
+{4,"_$InfoBase$_.ExclusiveModeChange",10},
+{4,"_$PerformError$_",11},
+{4,"_$Transaction$_.Begin",12},
+{4,"_$Data$_.New",13},
+{5,342744c9-7a73-4864-b01c-3176553c0064,"Справочник.Слова",1},
+{4,"_$Transaction$_.Commit",14}
