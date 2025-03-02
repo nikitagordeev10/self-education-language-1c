@@ -1,0 +1,1 @@
+// Задача о выборе заявок (Activity Selection Problem)
