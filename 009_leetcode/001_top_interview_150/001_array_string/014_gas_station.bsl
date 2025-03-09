@@ -36,6 +36,8 @@
 // 1 <= n <= 10^5
 // 0 <= gas[i], cost[i] <= 10^4
 
+// 134. Gas Station // LeetCode URL: https://leetcode.com/problems/gas-station/?envType=study-plan-v2&envId=top-interview-150
+
 Функция МожетЗавершитьКруг(МассивТопливо, МассивРасход) Экспорт
     ОбщийБензин = 0; // Общее количество доступного топлива
     ОбщийРасход = 0; // Общая расход для прохождения маршрута

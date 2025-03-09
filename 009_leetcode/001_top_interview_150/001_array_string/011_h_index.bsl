@@ -25,6 +25,8 @@
 // 1 <= n <= 5000
 // 0 <= citations[i] <= 1000
 
+// 274. H-Index // LeetCode URL: https://leetcode.com/problems/h-index/?envType=study-plan-v2&envId=top-interview-150
+
 Функция СортировкаСпискомЗначений(Знач Массив)
 	мСписокЗнч = Новый СписокЗначений;
 	мСписокЗнч.ЗагрузитьЗначения(Массив);

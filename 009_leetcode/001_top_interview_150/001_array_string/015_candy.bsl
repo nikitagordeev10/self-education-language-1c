@@ -28,6 +28,8 @@
 // 1 <= n <= 2 * 10^4
 // 0 <= ratings[i] <= 2 * 10^4
 
+// 135. Candy // LeetCode URL: https://leetcode.com/problems/candy/?envType=study-plan-v2&envId=top-interview-150
+
 Функция РаспределитьКонфеты(Рейтинги) 
 
     КоличествоДетей = Рейтинги.Количество(); // Количество детей
